@@ -5,6 +5,21 @@
 	background-position: top;
 }
 
+ul{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-shadow: 0.3px 0.6px white;
+}
+
+li{
+    width: max-content;
+}
+
+li:hover{
+    text-decoration: overline;
+}
+
 .navbar-brand{
     font-size: 40px;
     font-family: 'Pacifico';
