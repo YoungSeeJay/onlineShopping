@@ -1,7 +1,21 @@
-#home{
+#main .section{
     height: 700px;
     width: 100%;
-    background-image: url("lib/backgroundImages/brooke-lark-230140-unsplash.jpg");
     background-size: cover;
 	background-position: top;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    font-family: 'Pacifico';
+    margin-left: 35px;
+    text-shadow: -1px 0 whitesmoke, 0 1px whitesmoke, 1px 0 whitesmoke, 0 -1px whitesmoke;
+}
+
+#home{
+    background-image: url("lib/backgroundImages/brooke-lark-230140-unsplash.jpg");
+}
+
+#about{
+    background-image: url("lib/backgroundImages/joanna-kosinska-340751-unsplash.jpg");
 }
