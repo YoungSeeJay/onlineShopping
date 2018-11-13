@@ -1,7 +1,7 @@
 #main .section{
     height: 700px;
     background-size: cover;
-	background-position: top;
+	background-position: center;
 }
 
 ul{
@@ -13,9 +13,9 @@ li:hover{
     text-decoration: overline;
 }
 
-#jumbo{
-    padding-top: 130px;
-}
+/* .jumbo{
+    padding: 130px;
+} */
 
 .navbar-brand{
     font-size: 35px;
@@ -28,5 +28,5 @@ li:hover{
 }
 
 #about{
-    background-image: url("lib/backgroundImages/pumpkins-57347-unsplash.jpg");
+    background-image: url("lib/backgroundImages/joanna-kosinska-340746-unsplash.jpg");
 }
