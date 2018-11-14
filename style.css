@@ -13,10 +13,6 @@ li:hover{
     text-decoration: overline;
 }
 
-/* .jumbo{
-    padding: 130px;
-} */
-
 .navbar-brand{
     font-size: 35px;
     font-family: 'Pacifico';
@@ -29,4 +25,18 @@ li:hover{
 
 #about{
     background-image: url("lib/backgroundImages/joanna-kosinska-340746-unsplash.jpg");
+}
+
+#services{
+    background: #EB5757;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+#gallery{
+    background: #f7ff00;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #db36a4, #f7ff00);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #db36a4, #f7ff00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
