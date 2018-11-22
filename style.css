@@ -1,7 +1,7 @@
-#main .section{
-    height: 750px;
+#main .section:not(#gallery):not(#blog){
+    height: 650px;
     background-size: cover;
-	background-position: center;
+    background-position: center;
 }
 
 ul{
@@ -42,7 +42,7 @@ li:hover{
     background: #f7ff00;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #db36a4, #f7ff00);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #db36a4, #f7ff00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    height: 850px;
 }
 
 #subscribe{
@@ -53,6 +53,7 @@ li:hover{
     background: #7F7FD5;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 750px;
 }
 
 #contact{
