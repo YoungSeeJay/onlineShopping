@@ -16,7 +16,6 @@ li:hover{
 .navbar-brand{
     font-size: 35px;
     font-family: 'Lobster', cursive;
-    text-shadow: -1px 0 whitesmoke, 0 1px whitesmoke, 1px 0 whitesmoke, 0 -1px whitesmoke;
 }
 
 .wheatBckgr{
@@ -25,7 +24,7 @@ li:hover{
 }
 
 #home{
-    background-image: url("lib/backgroundImages/brooke-lark-230140-unsplash.jpg");
+    background-image: url("lib/backgroundImages/hal-gatewood-484512-unsplash.jpg");
 }
 
 #about{
