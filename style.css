@@ -23,6 +23,10 @@ li:hover{
     opacity: 0.5;
 }
 
+.card{
+    width: 260px;
+}
+
 #home{
     background-image: url("lib/backgroundImages/hal-gatewood-484512-unsplash.jpg");
 }
